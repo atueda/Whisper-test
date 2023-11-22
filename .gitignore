@@ -1,0 +1,11 @@
+.DS_Store
+.pyc
+.pt
+.js
+*.mp4
+*myenv/*
+*venv/*
+*whisper_models/*
+*__pycache__/*
+*.txt
+subtitle_generator.py
